@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Benny812/MMV.viewer_R2/issues"
   },
-  "homepage": "https://github.com/Benny812/MMV.viewer_R2#readme"
+  "homepage": "https://github.com/Benny812/MMV.viewer_R2#readme",
+  "dependencies": {
+    "three": "^0.142.0"
+  }
 }
