@@ -148,6 +148,7 @@ li:hover {
 }
 
 .gallery-button {
+  color: var(--black);
   background-color: var(--light);
   text-decoration: none;
   padding: 0.5em 1.5em;
