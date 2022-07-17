@@ -4,6 +4,9 @@
   box-sizing: border-box;
   font-family: sans-serif;
 }
+body {
+  overflow: hidden;
+}
 
 :root {
   --dark: #262627;
@@ -63,6 +66,10 @@ li:hover {
 
 .logo {
   width: 4rem;
+}
+#viewer-container {
+  width: 100vw;
+  height: 100vh;
 }
 
 .cards-flexcontainer {
